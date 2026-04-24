@@ -22,7 +22,7 @@ The model achieved high predictive accuracy for the standard residential market:
 
 ## 👥 Team Members
 * **Abdullah bin Maneea**
-* * **Abdullah AlOud**
+* **Abdullah AlOud**
 * **Faris Abuthnain**
 * **Mohammad Alaqid**
 * **Malik Alhabashi -ME-**
